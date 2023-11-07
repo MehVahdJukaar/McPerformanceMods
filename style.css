@@ -70,6 +70,7 @@ h1 {
  * Paragraphs
  */
 p {
+  color: #b7b6b6;
   margin: 0 auto 1.5em auto; /* bottom margin for paragraphs */
 }
 p + p {
@@ -145,8 +146,8 @@ ul.main-menu li a.active {
 }
 
 ul {
+  color: #b7b6b6;
   list-style-type: disc inside; /* Use disc for bullet points */
-  color: orange; /* Set the bullet color to orange */
 }
 
 /* Utility classes */
